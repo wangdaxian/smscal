@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">老吾老</string>
+    <string name="action_settings">Settings</string>
+    <string name="config">配置</string>
+    <string name="relative1">子女号码</string>
+    <string name="relative2">亲戚号码</string>
+    <string name="relative3">邻居号码</string>
+    <string name="saveconf">保存并启动</string>
+</resources>
